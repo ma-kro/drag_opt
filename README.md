@@ -1,5 +1,6 @@
 # Background of the Project
 This project is part of my son Nick’s school-paper on the topic of mobility. His idea was to optimize the drag coefficient of vehicles. Together, we implemented a simplified two-dimensional model along with a relatively straightforward flow simulation.
+The simulation is embedded in an optimization loop using an evolutionary algorithm. The idea is to optimize the structure of a simple 2-D form. The objective funtion is the drag-coefficient.
 
 School: https://www.igs-wallstrasse.de/index.php/oberstufe
 
