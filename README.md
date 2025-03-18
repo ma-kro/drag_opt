@@ -22,8 +22,16 @@ uv run plot_polygon.py
 # Optimization
 You can find the results of a sample optimization run using a population size of 30 and running over 30 iterations in the folder **results**.
 
+## Initial Population
+![Initial Population](results/initial_population.png "Initial Population")
+
+## Final Population
+![Final Population](results/final_population.png "Final Population")
+
+## Results of the Optimiation Process
 ![Optimization Results](results/optimization_progress.png "Optimization Results")
 
+## Best Individual
 ![Best Indivivual](results/best/ind_00/form.png "Best Indivivual")
 
 ![Best Indivivual](results/best/ind_00/ns_solution.png "Best Indivivual")
