@@ -1,0 +1,14 @@
+[project]
+name = "drag-opt"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "deap>=1.4.2",
+    "fenics>=2019.1.0",
+    "matplotlib>=3.10.1",
+    "meshio>=5.3.5",
+    "numpy>=2.2.3",
+    "pygmsh>=7.1.17",
+]
