@@ -1,4 +1,9 @@
-# Requirements
+# Background of the Project
+This project is part of my son Nick’s school-paper on the topic of mobility. His idea was to optimize the drag coefficient of vehicles. Together, we implemented a simplified two-dimensional model along with a relatively straightforward flow simulation.
+
+School: https://www.igs-wallstrasse.de/index.php/oberstufe
+
+# Requirements and Usage
 
 Python usage via https://github.com/astral-sh/uv.
 
